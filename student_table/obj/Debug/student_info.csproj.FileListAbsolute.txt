@@ -1,0 +1,7 @@
+C:\Users\suman\source\repos\student_table\student_table\bin\student_table.dll.config
+C:\Users\suman\source\repos\student_table\student_table\bin\student_table.dll
+C:\Users\suman\source\repos\student_table\student_table\bin\student_table.pdb
+C:\Users\suman\source\repos\student_table\student_table\obj\Debug\student_info.csproj.AssemblyReference.cache
+C:\Users\suman\source\repos\student_table\student_table\obj\Debug\student_info.csproj.CoreCompileInputs.cache
+C:\Users\suman\source\repos\student_table\student_table\obj\Debug\student_table.dll
+C:\Users\suman\source\repos\student_table\student_table\obj\Debug\student_table.pdb
